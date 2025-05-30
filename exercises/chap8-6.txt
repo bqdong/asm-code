@@ -1,0 +1,3 @@
+b bubbleSort
+b outerLoop
+display/10dg &arr

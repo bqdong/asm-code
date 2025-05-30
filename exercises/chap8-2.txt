@@ -1,0 +1,5 @@
+b last
+display/dg &min
+display/dg &max
+display/dg &avg
+

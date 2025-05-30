@@ -1,0 +1,56 @@
+b last
+r
+echo ---------------------------- \n
+echo bAns1= \n
+x/db &bAns1
+x/xb &bAns1
+echo \n
+echo bAns2= \n
+x/db &bAns2
+x/xb &bAns2
+echo \n
+echo bAns3= \n
+x/db &bAns3
+x/xb &bAns3
+echo \n
+echo bAns6= \n
+x/db &bAns6
+x/xb &bAns6
+echo \n
+echo bAns7= \n
+x/db &bAns7
+x/xb &bAns7
+echo \n
+echo bAns8= \n
+x/db &bAns8
+x/xb &bAns8
+echo \n
+echo wAns11= \n
+x/dh &wAns11
+x/xh &wAns11
+echo \n
+echo wAns12= \n
+x/dh &wAns12
+x/xh &wAns12
+echo \n
+echo wAns13= \n
+x/dh &wAns13
+x/xh &wAns13
+echo \n
+echo bAns16= \n
+x/db &bAns16
+x/xb &bAns16
+echo \n
+echo bAns17= \n
+x/db &bAns17
+x/xb &bAns17
+echo \n
+echo bAns18= \n
+x/db &bAns18
+x/xb &bAns18
+echo \n
+echo bRem18= \n
+x/db &bRem18
+x/xb &bRem18
+echo ---------------------------- \n
+
