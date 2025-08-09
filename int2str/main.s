@@ -20,11 +20,11 @@ result_str: .skip 8
 _start:
 	movq number(%rip), %rax
 	movq $0, %r8 				/* record current saved number nums */
-    movq $0, %r10
+  movq $0, %r10
 
 /* Push every number to result_str. */
 loop:
-    movq $0, %rdx
+  movq $0, %rdx
 	divq ten(%rip)
 	lea ascii_table(%rip), %rsi
 	movb (%rsi, %rdx, 1), %r9b

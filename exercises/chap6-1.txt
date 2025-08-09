@@ -1,0 +1,6 @@
+b _start
+display/db &bResult
+display/dh &wResult
+display/dw &dResult
+display/dg &qResult
+r
